@@ -1,0 +1,7 @@
+Original Input: 10.0 C
+
+Converted Temperatures:
+Celsius     : 10.0
+Fahrenheit  : 50.0
+Kelvin      : 283.15
+==============================
